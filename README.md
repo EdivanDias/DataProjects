@@ -3,4 +3,5 @@ This repository is result of my current studies about the PowerBI and Python.  C
 
 Status:
 1- Updating my dashboads to upload here. - Not ready
+
 2- Starting studies in Python for upload the ok projects - Not ready
